@@ -1,3 +1,5 @@
+(注意:不适用于4.0.0以上的版本)
+
 基于[Phigros_Resource](https://github.com/7aGiven/Phigros_Resource)修改
 
 解决了AssetStudio解包时的文件名问题
